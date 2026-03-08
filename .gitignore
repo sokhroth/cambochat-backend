@@ -1,0 +1,12 @@
+uploads/*
+!/uploads/default/
+!/uploads/not-found-images/
+!/uploads/demo/
+node_modules/
+.env
+package-lock.json
+frontend/
+/admin
+validatedToken.txt
+admin/*
+frontend/*

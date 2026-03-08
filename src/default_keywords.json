@@ -1,0 +1,1571 @@
+[
+  {
+    "key": "Are you sure you want to leave"
+  },
+  {
+    "key": "Make Admin"
+  },
+  {
+    "key": "Docs"
+  },
+  {
+    "key": "You will no longer receive messages from this group."
+  },
+  {
+    "key": "Searching messages"
+  },
+  {
+    "key": "No contacts available for chat"
+  },
+  {
+    "key": "Delete"
+  },
+  {
+    "key": "2"
+  },
+  {
+    "key": "Failed to load members"
+  },
+  {
+    "key": "Add Members"
+  },
+  {
+    "key": "Report Group"
+  },
+  {
+    "key": "Enter group name"
+  },
+  {
+    "key": "Group Description"
+  },
+  {
+    "key": "Group updated successfully"
+  },
+  {
+    "key": "Failed to update group"
+  },
+  {
+    "key": "Please select an avatar."
+  },
+  {
+    "key": "Unable to delete chat: Invalid chat ID"
+  },
+  {
+    "key": "Edit Profile"
+  },
+  {
+    "key": "Invite Contact"
+  },
+  {
+    "key": "Failed to clear chat, Please try again."
+  },
+  {
+    "key": "Are you sure you want to Delete your Account?"
+  },
+  {
+    "key": "Search name or number"
+  },
+  {
+    "key": "Are you sure you want to Delete?"
+  },
+  {
+    "key": "member"
+  },
+  {
+    "key": "You are not a member of this group"
+  },
+  {
+    "key": "Remove Member"
+  },
+  {
+    "key": "Exit Group"
+  },
+  {
+    "key": "Are you sure you want to make"
+  },
+  {
+    "key": "Please try again."
+  },
+  {
+    "key": "Ok"
+  },
+  {
+    "key": "Are you sure you want to Unblock"
+  },
+  {
+    "key": "Clear Chat"
+  },
+  {
+    "key": "Automate Timings"
+  },
+  {
+    "key": "Live Azaan"
+  },
+  {
+    "key": "Start Free Trial"
+  },
+  {
+    "key": "Monthly"
+  },
+  {
+    "key": "Annually"
+  },
+  {
+    "key": "per week"
+  },
+  {
+    "key": "In a metting"
+  },
+  {
+    "key": "You don’t have any Image"
+  },
+  {
+    "key": "Group"
+  },
+  {
+    "key": "No contacts to invite"
+  },
+  {
+    "key": "Group Information"
+  },
+  {
+    "key": "Loading members"
+  },
+  {
+    "key": "Exit"
+  },
+  {
+    "key": "Enter group description (optional)"
+  },
+  {
+    "key": "Updating"
+  },
+  {
+    "key": "Forward Failed"
+  },
+  {
+    "key": "Failed to forward any messages"
+  },
+  {
+    "key": "Logout"
+  },
+  {
+    "key": "Are you sure you want to Logout?"
+  },
+  {
+    "key": "Update"
+  },
+  {
+    "key": "Block list"
+  },
+  {
+    "key": "Search contacts"
+  },
+  {
+    "key": "Invite friends to"
+  },
+  {
+    "key": "No messages selected for forwarding"
+  },
+  {
+    "key": "Share Updates Instantly"
+  },
+  {
+    "key": "Upload Resources"
+  },
+  {
+    "key": "Blocked by User"
+  },
+  {
+    "key": "Messages forwarded successfully"
+  },
+  {
+    "key": "Forward"
+  },
+  {
+    "key": "Message"
+  },
+  {
+    "key": "An error occurred. Please try again."
+  },
+  {
+    "key": "Unable to locate message"
+  },
+  {
+    "key": "Message found!"
+  },
+  {
+    "key": "Failed to delete messages"
+  },
+  {
+    "key": "These"
+  },
+  {
+    "key": "Error: Group ID not found"
+  },
+  {
+    "key": "Avatar Profile Not Found"
+  },
+  {
+    "key": "Send Location"
+  },
+  {
+    "key": "Nearby Places"
+  },
+  {
+    "key": "Search places"
+  },
+  {
+    "key": "Continue with Phone or Email"
+  },
+  {
+    "key": "Choose From"
+  },
+  {
+    "key": "Avatar"
+  },
+  {
+    "key": "Scam or fraud"
+  },
+  {
+    "key": "Unstar"
+  },
+  {
+    "key": "Unstar Message"
+  },
+  {
+    "key": "Connecting to chat service"
+  },
+  {
+    "key": "typing"
+  },
+  {
+    "key": "Description"
+  },
+  {
+    "key": "Start Chat"
+  },
+  {
+    "key": "Document"
+  },
+  {
+    "key": "Photo"
+  },
+  {
+    "key": "View Contact"
+  },
+  {
+    "key": "View Location"
+  },
+  {
+    "key": "No members found"
+  },
+  {
+    "key": "Are you sure you want to archive"
+  },
+  {
+    "key": "selected"
+  },
+  {
+    "key": "Failed to remove"
+  },
+  {
+    "key": "Pin Message"
+  },
+  {
+    "key": "Connection to chat server lost. Reconnecting not added"
+  },
+  {
+    "key": "Please add your username"
+  },
+  {
+    "key": "Please add your firstname"
+  },
+  {
+    "key": "Please add your lastname"
+  },
+  {
+    "key": "Create Group"
+  },
+  {
+    "key": "How It Works"
+  },
+  {
+    "key": "1"
+  },
+  {
+    "key": "3"
+  },
+  {
+    "key": "4"
+  },
+  {
+    "key": "Something went wrong while sending OTP"
+  },
+  {
+    "key": "Next"
+  },
+  {
+    "key": "Video"
+  },
+  {
+    "key": "Location"
+  },
+  {
+    "key": "GIF"
+  },
+  {
+    "key": "Connection error. Please check your internet connection"
+  },
+  {
+    "key": "Or"
+  },
+  {
+    "key": "Camera"
+  },
+  {
+    "key": "Gallery"
+  },
+  {
+    "key": "Submit"
+  },
+  {
+    "key": "Save"
+  },
+  {
+    "key": "No status selected"
+  },
+  {
+    "key": "You don’t have any block Contact"
+  },
+  {
+    "key": "Failed to unblock"
+  },
+  {
+    "key": "Are you sure you want to delete this"
+  },
+  {
+    "key": "Copy Link"
+  },
+  {
+    "key": "Are you sure you want to unstar this message?"
+  },
+  {
+    "key": "removed from group"
+  },
+  {
+    "key": "No media in this category"
+  },
+  {
+    "key": "Loading more chats"
+  },
+  {
+    "key": "Please Enter Email ID"
+  },
+  {
+    "key": "Phone Number"
+  },
+  {
+    "key": "Country"
+  },
+  {
+    "key": "OTP Resend on mobile number"
+  },
+  {
+    "key": "OTP Resend on email"
+  },
+  {
+    "key": "Call"
+  },
+  {
+    "key": "Status"
+  },
+  {
+    "key": "Contact"
+  },
+  {
+    "key": "Custom Salah Reminders"
+  },
+  {
+    "key": "Reply"
+  },
+  {
+    "key": "You will be able to chat with them again."
+  },
+  {
+    "key": "No Block Contact"
+  },
+  {
+    "key": "Loading chats"
+  },
+  {
+    "key": "Add"
+  },
+  {
+    "key": "What's this group about? (Optional)"
+  },
+  {
+    "key": "Members"
+  },
+  {
+    "key": "out of"
+  },
+  {
+    "key": "Please enter a group name"
+  },
+  {
+    "key": "Please select at least one contact"
+  },
+  {
+    "key": "Creating Group"
+  },
+  {
+    "key": "Enter Group name to continue"
+  },
+  {
+    "key": "Forward Messages"
+  },
+  {
+    "key": "Search chats and contacts"
+  },
+  {
+    "key": "Recent Chats"
+  },
+  {
+    "key": "All Contacts"
+  },
+  {
+    "key": "Clear All"
+  },
+  {
+    "key": "Forward to"
+  },
+  {
+    "key": "recipient"
+  },
+  {
+    "key": "Loading contacts"
+  },
+  {
+    "key": "No chats available"
+  },
+  {
+    "key": "Adding Members"
+  },
+  {
+    "key": "member(s) added successfully"
+  },
+  {
+    "key": "Already in group"
+  },
+  {
+    "key": "Select Contacts to Add"
+  },
+  {
+    "key": "and"
+  },
+  {
+    "key": "more error"
+  },
+  {
+    "key": "Error details"
+  },
+  {
+    "key": "Done"
+  },
+  {
+    "key": "Some forwards failed"
+  },
+  {
+    "key": "Successfully forwarded"
+  },
+  {
+    "key": "Partial Success"
+  },
+  {
+    "key": "Share Link"
+  },
+  {
+    "key": "Write Something"
+  },
+  {
+    "key": "from the group"
+  },
+  {
+    "key": "Message copied"
+  },
+  {
+    "key": "All messages have been delivered successfully."
+  },
+  {
+    "key": "Documents"
+  },
+  {
+    "key": "Links"
+  },
+  {
+    "key": "Deleting"
+  },
+  {
+    "key": "Unable to archive chat: Invalid chat ID"
+  },
+  {
+    "key": "Would you like to invite"
+  },
+  {
+    "key": "to join"
+  },
+  {
+    "key": "Are you sure you want to Logout your Account?"
+  },
+  {
+    "key": "Delete Account"
+  },
+  {
+    "key": "Are you sure you want to Delete Account?"
+  },
+  {
+    "key": "Engage with Polls"
+  },
+  {
+    "key": "Stream Events"
+  },
+  {
+    "key": "View Access Permission"
+  },
+  {
+    "key": "Are you sure you want to block"
+  },
+  {
+    "key": "You will not be able to chat with them."
+  },
+  {
+    "key": "has been unblocked"
+  },
+  {
+    "key": "Tapped on message"
+  },
+  {
+    "key": "An error occurred while clearing chat."
+  },
+  {
+    "key": "We will send you 6 digit code on the given phone number"
+  },
+  {
+    "key": "Resend Code in 01:30"
+  },
+  {
+    "key": "message to"
+  },
+  {
+    "key": "Success!"
+  },
+  {
+    "key": "An unexpected error occurred"
+  },
+  {
+    "key": "Forwarding"
+  },
+  {
+    "key": "Your report submitted"
+  },
+  {
+    "key": "Reports Not Available"
+  },
+  {
+    "key": "No nearby location found"
+  },
+  {
+    "key": "Searching for message"
+  },
+  {
+    "key": "Unstarring"
+  },
+  {
+    "key": "Starring"
+  },
+  {
+    "key": "Unpinning message"
+  },
+  {
+    "key": "Message pinned for lifetime"
+  },
+  {
+    "key": "Message pinned for"
+  },
+  {
+    "key": "days"
+  },
+  {
+    "key": "day"
+  },
+  {
+    "key": "Unpinning"
+  },
+  {
+    "key": "Pinning"
+  },
+  {
+    "key": "Failed to send GIF. Please try again."
+  },
+  {
+    "key": "Please wait while we clear all messages"
+  },
+  {
+    "key": "Clearing chat"
+  },
+  {
+    "key": "Deleted"
+  },
+  {
+    "key": "Choose Avtar"
+  },
+  {
+    "key": "Archived"
+  },
+  {
+    "key": "Unarchive Chat"
+  },
+  {
+    "key": "While allowing this permission user can share the contact of each other in the chat."
+  },
+  {
+    "key": "Video Access Permission"
+  },
+  {
+    "key": "You don't have any status to show"
+  },
+  {
+    "key": "No archived chats"
+  },
+  {
+    "key": "is now an remove as admin"
+  },
+  {
+    "key": "Are you sure you want to remove"
+  },
+  {
+    "key": "of"
+  },
+  {
+    "key": "Successfully deleted"
+  },
+  {
+    "key": "for everyone"
+  },
+  {
+    "key": "for you"
+  },
+  {
+    "key": "Failed to delete messages. Please try again."
+  },
+  {
+    "key": "Archive list"
+  },
+  {
+    "key": "Pinned Message"
+  },
+  {
+    "key": "Unpin Message"
+  },
+  {
+    "key": "Audio"
+  },
+  {
+    "key": "Media, links and docs"
+  },
+  {
+    "key": "App Language"
+  },
+  {
+    "key": "Language"
+  },
+  {
+    "key": "Subscription"
+  },
+  {
+    "key": "About"
+  },
+  {
+    "key": "Some deletions failed."
+  },
+  {
+    "key": "Delete Only Mine for Everyone"
+  },
+  {
+    "key": "Continue"
+  },
+  {
+    "key": "Chat"
+  },
+  {
+    "key": "Mobile Number"
+  },
+  {
+    "key": "Enter mail"
+  },
+  {
+    "key": "At the gym"
+  },
+  {
+    "key": "Sleeping"
+  },
+  {
+    "key": "Profile Photo"
+  },
+  {
+    "key": "Got It"
+  },
+  {
+    "key": "Non Changeable"
+  },
+  {
+    "key": "Change Profile"
+  },
+  {
+    "key": "Select Profile"
+  },
+  {
+    "key": "Select Avatar"
+  },
+  {
+    "key": "Select only your own messages to delete them for everyone"
+  },
+  {
+    "key": "Use \"Delete for Me\" to remove all selected messages from your view"
+  },
+  {
+    "key": "Options"
+  },
+  {
+    "key": "Audio Call"
+  },
+  {
+    "key": "User will receive the notification for the audio call when the opposite person calls you."
+  },
+  {
+    "key": "To access contact permission then it should be on, or else contact won’t be accessible."
+  },
+  {
+    "key": "User need to allow this notification so that the user can share the photo in the chat."
+  },
+  {
+    "key": "of your own message"
+  },
+  {
+    "key": "Your selection contains"
+  },
+  {
+    "key": "You can only delete your own messages for everyone."
+  },
+  {
+    "key": "Phone"
+  },
+  {
+    "key": "Email"
+  },
+  {
+    "key": "Error"
+  },
+  {
+    "key": "Group Info"
+  },
+  {
+    "key": "Group Statistics"
+  },
+  {
+    "key": "Group Members"
+  },
+  {
+    "key": "Weekly"
+  },
+  {
+    "key": "Notification Preferences"
+  },
+  {
+    "key": "User will receive the notification for all the messages they receive in the group."
+  },
+  {
+    "key": "Photo Access Permission"
+  },
+  {
+    "key": "Failed to"
+  },
+  {
+    "key": "Its’s Spam"
+  },
+  {
+    "key": "Bullying or harassment"
+  },
+  {
+    "key": "from others"
+  },
+  {
+    "key": "of your own messages"
+  },
+  {
+    "key": "Cannot Delete for Everyone"
+  },
+  {
+    "key": "Delete for Everyone"
+  },
+  {
+    "key": "This action cannot be undone. The messages will be removed for all participants."
+  },
+  {
+    "key": "Delete Mine for Everyone"
+  },
+  {
+    "key": "Delete for Me"
+  },
+  {
+    "key": "Automatically filters to your"
+  },
+  {
+    "key": "Delete only your messages for everyone"
+  },
+  {
+    "key": "Removes all selected messages from your view only"
+  },
+  {
+    "key": "Use \"Delete for Me\""
+  },
+  {
+    "key": "Your options"
+  },
+  {
+    "key": "Cannot delete"
+  },
+  {
+    "key": "messages of others"
+  },
+  {
+    "key": "You have selected"
+  },
+  {
+    "key": "Forwarded"
+  },
+  {
+    "key": "Forwarding Messages"
+  },
+  {
+    "key": "Messages will be forwarded with \"Forwarded\" label"
+  },
+  {
+    "key": "Once Notification on so user can view all the contacts from their phone."
+  },
+  {
+    "key": "Share The Contact"
+  },
+  {
+    "key": "block"
+  },
+  {
+    "key": "Notification Not Found"
+  },
+  {
+    "key": "You don't have any Notification"
+  },
+  {
+    "key": "Report Account"
+  },
+  {
+    "key": "why are you reporting this Post?"
+  },
+  {
+    "key": "Drugs"
+  },
+  {
+    "key": "Invite link copied to clipboard!"
+  },
+  {
+    "key": "Are you sure you want to remove admin rights from"
+  },
+  {
+    "key": "Invites"
+  },
+  {
+    "key": "Contacts"
+  },
+  {
+    "key": "Send Message"
+  },
+  {
+    "key": "unblock"
+  },
+  {
+    "key": "You don’t have any Documents"
+  },
+  {
+    "key": "When you archive chats, they'll appear here"
+  },
+  {
+    "key": "You don't have call logs to show"
+  },
+  {
+    "key": "View Profile"
+  },
+  {
+    "key": "Upload"
+  },
+  {
+    "key": "Add Caption....."
+  },
+  {
+    "key": "Type reply......."
+  },
+  {
+    "key": "Failed to make"
+  },
+  {
+    "key": "Can delete"
+  },
+  {
+    "key": "Your current selection"
+  },
+  {
+    "key": "User will receive the notification for all the messages they receive."
+  },
+  {
+    "key": "Share this link with your friends to invite them to join"
+  },
+  {
+    "key": "has been blocked"
+  },
+  {
+    "key": "Start New Chat"
+  },
+  {
+    "key": "Begin a fresh conversation anytime."
+  },
+  {
+    "key": "Say \"hi\" to start conversation"
+  },
+  {
+    "key": "is now an admin"
+  },
+  {
+    "key": "This type of message cannot be deleted."
+  },
+  {
+    "key": "Report"
+  },
+  {
+    "key": "Unblock"
+  },
+  {
+    "key": "Profile"
+  },
+  {
+    "key": "per month"
+  },
+  {
+    "key": "Notification"
+  },
+  {
+    "key": "All Calls"
+  },
+  {
+    "key": "per year"
+  },
+  {
+    "key": "Tap to add your story"
+  },
+  {
+    "key": "Recent Updates"
+  },
+  {
+    "key": "will be deleted for everyone in the chat."
+  },
+  {
+    "key": "Send OTP"
+  },
+  {
+    "key": "Viewed Status"
+  },
+  {
+    "key": "No Star Message"
+  },
+  {
+    "key": "No Photos Found"
+  },
+  {
+    "key": "No Call"
+  },
+  {
+    "key": "Other reasons"
+  },
+  {
+    "key": "6 digit OTP has been sent to"
+  },
+  {
+    "key": "Clear this Chat?"
+  },
+  {
+    "key": "Search"
+  },
+  {
+    "key": "Viewed by"
+  },
+  {
+    "key": "Delete Status"
+  },
+  {
+    "key": "Configure Notifications"
+  },
+  {
+    "key": "Cannot Select Message"
+  },
+  {
+    "key": "Invite"
+  },
+  {
+    "key": "Removed as admin messages cannot be deleted."
+  },
+  {
+    "key": "System Message"
+  },
+  {
+    "key": "Promoted as admin messages cannot be deleted."
+  },
+  {
+    "key": "Member left messages cannot be deleted."
+  },
+  {
+    "key": "Member removal messages cannot be deleted."
+  },
+  {
+    "key": "Member addition messages cannot be deleted."
+  },
+  {
+    "key": "Group creation messages cannot be deleted."
+  },
+  {
+    "key": "Message Already Deleted"
+  },
+  {
+    "key": "No messages yet"
+  },
+  {
+    "key": "Type at least 2 characters to search"
+  },
+  {
+    "key": "Search messages"
+  },
+  {
+    "key": "No messages found"
+  },
+  {
+    "key": "Hello welcome to chat app"
+  },
+  {
+    "key": "Dark mode"
+  },
+  {
+    "key": "Light mode"
+  },
+  {
+    "key": "Group Name"
+  },
+  {
+    "key": "Enter your Group Name"
+  },
+  {
+    "key": "Image selected successfully"
+  },
+  {
+    "key": "Archive Chat"
+  },
+  {
+    "key": "Error clearing chat"
+  },
+  {
+    "key": "Chat cleared successfully"
+  },
+  {
+    "key": "to"
+  },
+  {
+    "key": "Notification setting changed to"
+  },
+  {
+    "key": "Error updating group"
+  },
+  {
+    "key": "Search place"
+  },
+  {
+    "key": "Select Avatar Photo"
+  },
+  {
+    "key": "Setting"
+  },
+  {
+    "key": "Search User"
+  },
+  {
+    "key": "Personalized Prayers for Every Need"
+  },
+  {
+    "key": "Chats"
+  },
+  {
+    "key": "New Group"
+  },
+  {
+    "key": "Are you sure you want to Block"
+  },
+  {
+    "key": "Unblcoked"
+  },
+  {
+    "key": "Settings"
+  },
+  {
+    "key": "Starred Messages"
+  },
+  {
+    "key": "Block Contacts"
+  },
+  {
+    "key": "Currently set to"
+  },
+  {
+    "key": "Select your About"
+  },
+  {
+    "key": "Edit"
+  },
+  {
+    "key": "Copy"
+  },
+  {
+    "key": "Star Message"
+  },
+  {
+    "key": "My Status"
+  },
+  {
+    "key": "All New Messages"
+  },
+  {
+    "key": "Messages in Group"
+  },
+  {
+    "key": "Gallery Notification Preferences"
+  },
+  {
+    "key": "group"
+  },
+  {
+    "key": "chat"
+  },
+  {
+    "key": "This action cannot be undone."
+  },
+  {
+    "key": "Confirm"
+  },
+  {
+    "key": "Success"
+  },
+  {
+    "key": "Failed to add email"
+  },
+  {
+    "key": "Failed to add Phonenmuber"
+  },
+  {
+    "key": "Failed to add OTP, Resend OTP"
+  },
+  {
+    "key": "Login"
+  },
+  {
+    "key": "Contact List"
+  },
+  {
+    "key": "Admin"
+  },
+  {
+    "key": "an admin"
+  },
+  {
+    "key": "Select Group Image"
+  },
+  {
+    "key": "Please select at least one contact to add"
+  },
+  {
+    "key": "No contacts available as per your search"
+  },
+  {
+    "key": "Select new contacts to add. Existing members are shown with Already in group"
+  },
+  {
+    "key": "Report User"
+  },
+  {
+    "key": "Search location not found"
+  },
+  {
+    "key": "Message unpinned successfully"
+  },
+  {
+    "key": "Error selecting GIF. Please try again."
+  },
+  {
+    "key": "Could not get GIF URL. Please try again."
+  },
+  {
+    "key": "Please Enter Mobile number"
+  },
+  {
+    "key": "Cancel"
+  },
+  {
+    "key": "Story unavailable"
+  },
+  {
+    "key": "Media"
+  },
+  {
+    "key": "Make Group Admin"
+  },
+  {
+    "key": "Remove Admin"
+  },
+  {
+    "key": "Remove"
+  },
+  {
+    "key": "Deleting Group"
+  },
+  {
+    "key": "Delete Group"
+  },
+  {
+    "key": "deleted successfully"
+  },
+  {
+    "key": "Choose how you want to delete the messages"
+  },
+  {
+    "key": "Are you sure you want to unpin this message?"
+  },
+  {
+    "key": "It will be removed from the pinned messages list and other users will no longer see it as pinned."
+  },
+  {
+    "key": "Also delete media received in this chat from the device gallery"
+  },
+  {
+    "key": "Are you sure you want to Delete your status?"
+  },
+  {
+    "key": "User need to allow this notification so that the user can share the video in the chat."
+  },
+  {
+    "key": "User need to allow this notification so that the user can view or download the photo/video in the chat."
+  },
+  {
+    "key": "Deleting Messages"
+  },
+  {
+    "key": "Edit Group"
+  },
+  {
+    "key": "Photo captured successfully"
+  },
+  {
+    "key": "Error accessing camera"
+  },
+  {
+    "key": "Failed to archive chat"
+  },
+  {
+    "key": "archived successfully"
+  },
+  {
+    "key": "Archive"
+  },
+  {
+    "key": "Failed to unstar message"
+  },
+  {
+    "key": "Unarchiving"
+  },
+  {
+    "key": "Failed to delete group"
+  },
+  {
+    "key": "Group deleted successfully"
+  },
+  {
+    "key": "Failed to leave group"
+  },
+  {
+    "key": "You have left the group"
+  },
+  {
+    "key": "Leaving group"
+  },
+  {
+    "key": "Media gallery coming soon"
+  },
+  {
+    "key": "Feedback"
+  },
+  {
+    "key": "Terms & Conditions"
+  },
+  {
+    "key": "Privacy Policy"
+  },
+  {
+    "key": "Unblock User"
+  },
+  {
+    "key": "Are you sure you want to unblock"
+  },
+  {
+    "key": "Message unstarred successfully"
+  },
+  {
+    "key": "Could not launch"
+  },
+  {
+    "key": "Loading media"
+  },
+  {
+    "key": "Failed to unarchive chat"
+  },
+  {
+    "key": "unarchived successfully"
+  },
+  {
+    "key": "This message has already been deleted and cannot be selected."
+  },
+  {
+    "key": "Try a different search term"
+  },
+  {
+    "key": "Block"
+  },
+  {
+    "key": "Blcoked"
+  },
+  {
+    "key": "Choose what matters the most to you We promise not to spam you"
+  },
+  {
+    "key": "Video Call"
+  },
+  {
+    "key": "User will receive the notification for the video call when the opposite person calls you."
+  },
+  {
+    "key": "To receive the notification all notification should be on, so the application work without interruption."
+  },
+  {
+    "key": "Configure Permission"
+  },
+  {
+    "key": "To access location permission then it should be on, or else location won’t be accessible."
+  },
+  {
+    "key": "Contact Permission Preferences"
+  },
+  {
+    "key": "Can View All Contacts"
+  },
+  {
+    "key": "No Document Found"
+  },
+  {
+    "key": "No Link Found"
+  },
+  {
+    "key": "You don’t have any Links"
+  },
+  {
+    "key": "No Status Found"
+  },
+  {
+    "key": "Hate speech or symbols"
+  },
+  {
+    "key": "Please add your gender type"
+  },
+  {
+    "key": "Please add your country"
+  },
+  {
+    "key": "Online"
+  },
+  {
+    "key": "Type Message"
+  },
+  {
+    "key": "Delete for Everyone?"
+  },
+  {
+    "key": "Failed to forward messages"
+  },
+  {
+    "key": "Forward Messages?"
+  },
+  {
+    "key": "Battery about to die"
+  },
+  {
+    "key": "We will send you 6 digit code on the given email address"
+  },
+  {
+    "key": "Resend Code in 00:0"
+  },
+  {
+    "key": "Resend Code in 0"
+  },
+  {
+    "key": "Resend OTP"
+  },
+  {
+    "key": "Add Info"
+  },
+  {
+    "key": "User Name"
+  },
+  {
+    "key": "First Name"
+  },
+  {
+    "key": "Last Name"
+  },
+  {
+    "key": "Gender"
+  },
+  {
+    "key": "Male"
+  },
+  {
+    "key": "Female"
+  },
+  {
+    "key": "Contact Details"
+  },
+  {
+    "key": "Best Deal"
+  },
+  {
+    "key": "At work"
+  },
+  {
+    "key": "Available"
+  },
+  {
+    "key": "At Office"
+  },
+  {
+    "key": "To access gallery permission then it should be on, or else gallery won’t be accessible."
+  },
+  {
+    "key": "Block User"
+  },
+  {
+    "key": "script"
+  },
+  {
+    "key": "script"
+  },
+  {
+    "key": "new text"
+  },
+  {
+    "key": "Welcome"
+  },
+  {
+    "key": "App version"
+  },
+  {
+    "key": "messages"
+  },
+  {
+    "key": "Delete Message"
+  },
+  {
+    "key": "Unpin"
+  },
+  {
+    "key": "If you want to disable notification then you can go to settings and disable it."
+  },
+  {
+    "key": "Location Permission Preferences"
+  },
+  {
+    "key": "Share Location"
+  },
+  {
+    "key": "View the shared location"
+  },
+  {
+    "key": "Delete Chat"
+  },
+  {
+    "key": "See all"
+  },
+  {
+    "key": "Please select at least one chat or contact"
+  },
+  {
+    "key": "Error accessing gallery"
+  },
+  {
+    "key": "No contacts available"
+  },
+  {
+    "key": "No phone number available"
+  },
+  {
+    "key": "Copied to clipboard"
+  },
+  {
+    "key": "Refresh"
+  },
+  {
+    "key": "Retry"
+  },
+  {
+    "key": "Archiving"
+  },
+  {
+    "key": "Failed to delete chat"
+  },
+  {
+    "key": "Start Conversation"
+  },
+  {
+    "key": "You don’t have any Star Message"
+  },
+  {
+    "key": "No Media Found!"
+  },
+  {
+    "key": "Contact on"
+  },
+  {
+    "key": "All Calls"
+  },
+  {
+    "key": "Conversation Unarchived"
+  },
+  {
+    "key": "No Conversations Found"
+  },
+  {
+    "key": "Conversation Archived"
+  },
+  {
+    "key": "Share a link"
+  }
+]
