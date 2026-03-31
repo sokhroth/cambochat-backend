@@ -1,0 +1,21 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Deploy via SSH
+        uses: appleboy/ssh-action@master
+        with:
+          host: ttp://127.0.0.1:22
+          username: root         
+          key: AAAAC3NzaC1lZDI1NTE5AAAAICvjHQOrUeMeTG6wz31l2hj5S11KdPd9JbWD4rDqTayf
+          script: |
+            cd /var/www/cambochat_backend
+            git pull origin main
+            npm install --production
+            npx prisma migrate deploy
